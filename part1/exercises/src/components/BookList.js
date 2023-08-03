@@ -1,3 +1,5 @@
+import classes from './BookList.module.css';
+
 export default function BookList() {
    let pageTitle = "Best Sellers";
    let book1 = "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg";
@@ -5,7 +7,7 @@ export default function BookList() {
    let book3 = "https://storage.googleapis.com/du-prd/books/images/9780425285978.jpg";
 
    return (
-      <div>
+      <div className={classes.bookHeader}>
          <h3>{pageTitle}</h3>
          <img src={book1} alt="Fourth Wing by Rebecca Yarros" />
          <img src={book2} alt="Dead Fall by Brad Thor" />
