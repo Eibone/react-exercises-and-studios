@@ -1,0 +1,34 @@
+{
+    "projects" : [
+        {
+            "title": "The Legend of Zelda",
+            "yearRelease": "February 21, 1986",
+            "platform": "NES",
+            "genre": "Action-Adventure"
+        },
+        {
+            "title": "The Legend of Zelda: Tears of the Kingdom",
+            "yearRelease": "May 12, 2023",
+            "platform": "Switch",
+            "genre": "Open-world Action-Adventure"
+        },
+        {
+            "title": "Overwatch 2",
+            "yearRelease": "October 4, 2022",
+            "platform": "PC",
+            "genre": "FPS"
+        },
+        {
+            "title": "Dave the Diver",
+            "yearRelease": "June 28, 2023",
+            "platform": "PC",
+            "genre": "Adventure"
+        },
+        {
+            "title": "Starcraft",
+            "yearRelease": "March 31, 1998",
+            "platform": "PC",
+            "genre": "Real-time Strategy"
+        }
+    ]
+}
